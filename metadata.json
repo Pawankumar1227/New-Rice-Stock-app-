@@ -1,0 +1,6 @@
+{
+  "name": "Shri Ram Overseas",
+  "description": "Smart, offline-first stock entry form for agricultural logistics with secure automatic background syncing to Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
